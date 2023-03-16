@@ -1,4 +1,4 @@
-# BOOKNOW - An online movie ticketing application
+# BOOKMYSHOW Backend Application
 This is a Spring Boot application with around 19 APIs for performing all the CRUD operations related to ticketing of a movie show in a theater.
 # Design of the Application
 ![image](https://user-images.githubusercontent.com/117909106/225555163-de58c469-7f1f-4473-b68a-a00ae4051e63.png)
@@ -109,7 +109,7 @@ This project uses the following tech stack:
 * MySQL WorkBench
 
 ## Contact
-For questions, feedback, or support, please contact the project owner at pranshubarar1851996@gmail.com.
+For questions, feedback, or support, please contact the project owner at kemshettymadhav@gmail.com.
 
 ## Conclusion
 This ONLINE-MOVIE-TICKETING-APPLCIATION provides a strong backend infrastructre to do CRUD operations and managing the database.
